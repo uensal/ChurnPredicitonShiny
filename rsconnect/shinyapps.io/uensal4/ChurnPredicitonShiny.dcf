@@ -1,0 +1,12 @@
+name: ChurnPredicitonShiny
+title: ChurnPredicitonShiny
+username:
+account: uensal4
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3627669
+bundleId: 4214324
+url: https://uensal4.shinyapps.io/ChurnPredicitonShiny/
+when: 1613127980.65489
+asMultiple: FALSE
+asStatic: FALSE
